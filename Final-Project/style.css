@@ -1,0 +1,42 @@
+body
+{
+    background-color: bisque;
+}
+header
+{
+    text-align: center;
+}
+/* h2{
+    
+} */
+img{
+    width: 450px;
+    height: 380px;
+}
+.naissance
+{
+    position: relative;
+    left: 250px;
+    width: 700px;
+
+}
+
+
+div{
+    
+    /* border: 1px solid black; */
+    /* box-shadow: 5px solid red; */
+    border-radius: 7px;
+    /* box-shadow: 10px 10px 8px 10px rgb(108, 194, 194);; */
+    background-color: rgb(207, 172, 129);
+    width: 800px;
+    position: relative;
+    left: 250px;
+    
+}
+
+footer
+{
+    font-size:large;
+    text-align: center;
+}
